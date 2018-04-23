@@ -16,6 +16,7 @@ footerLinkMozilla = Mozilla
 footerLinkTerms = నిబంధనలు
 footerLinkPrivacy = గోప్యతా విధానం
 footerLinkFaqs = ప్రశ్నలు
+footerLinkDMCA = IP ఉల్లంఘనను నివేదించండి
 footerLinkDiscourse = అభిప్రాయం తెలియజేయండి
 footerLinkRemoveAllData = మొత్తం డేటాను తీసివేయండి
 
@@ -206,6 +207,18 @@ annotationColorSeaGreen =
 annotationColorGrey =
     .title = బూడిద 
 
+## Settings Page
+
+settingsDisconnectButton = అనుసంధానం తెంచు
+    .title = అనుసంధానం తెంచు
+settingsGuestAccountMessage = అతిథి ఖాతా
+settingsSignInButton = ప్రవేశించండి
+    .title = ప్రవేశించండి
+SettingsPageHeader = Firefox తెరపట్ల అమరికలు
+settingsPageSubHeader = సింక్ & ఖాతాలు
+settingsClosePreferences =
+    .title = అభిరుచులను మూసివేయి
+
 ## Shotindex page
 
 # { $status } is a placeholder for an HTTP status code, like '500'.
@@ -255,6 +268,7 @@ metricsPageShotsQueryDay = రోజు
 metricsPageUsersQueryTitle = రొజు వారి వాడుకరులు
 metricsPageUsersQueryCount = వాడుకరుల సంఖ్య
 metricsPageUsersQueryDay = రోజు
+metricsPageUserShotsQueryTitle = వాడుకరికి పట్ల సంఖ్య
 metricsPageUserShotsQueryCount = వాడుకరులు సంఖ్య
 metricsPageRetentionQueryTitle = వారానికి నిలుపుదల
 metricsPageRetentionQueryUsers = వాడుకరుల సంఖ్య

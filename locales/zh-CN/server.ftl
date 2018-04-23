@@ -202,6 +202,20 @@ annotationColorSeaGreen =
 annotationColorGrey =
     .title = 灰色
 
+## Settings Page
+
+settingsDisconnectButton = 断开连接
+    .title = 断开连接
+settingsGuestAccountMessage = 游客帐户
+settingsSignInInvite = 登录以在设备间同步
+settingsSignInButton = 登录
+    .title = 登录
+SettingsPageHeader = Firefox Screenshots 设置
+settingsDescription = 您可以使用 Firefox 账号登录以在设备间同步所有屏幕截图和私密地存取。
+settingsPageSubHeader = 同步和账户
+settingsClosePreferences =
+    .title = 关闭首选项
+
 ## Shotindex page
 
 # { $status } is a placeholder for an HTTP status code, like '500'.
